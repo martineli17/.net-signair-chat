@@ -4,4 +4,4 @@
 #### Se você quer iniciar um chat, basta clicar no button determinado para isso, e inserir o nome do participante e a mensagem desejada, ocorrendo a atualização - envio e recebebimento - das mensagem em tempo real.
 #### Ou inserir o nome do participante no campo destinado e a mensagem, que o chat será criado.
 ###### Necessário
-###### SDK do .NET na versão 3.1 (Core) ou superior.
+###### SDK do .NET na versão 3.1 (Core) ou superior. Link para download: https://dotnet.microsoft.com/download
